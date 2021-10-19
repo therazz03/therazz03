@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **iamrazz01@gmail.com**
 
-- 🌐 My Portfolio Website **<a href="https://therazz03.github.io">therazz03.github.io</a>**
+- 🌐 My Portfolio Website **<a href="https://therazz03.github.io">rajvardhan.codes</a>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
